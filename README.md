@@ -1,6 +1,7 @@
 # Journal_RSS
 A work in progress. Below is a list of RSS feeds for scientific journals
 The list will be added to and eventually I will upload all as an .xml list
+Copy and paste the links into your rss feed reader of choice
 
 ## General
 | Journal | RSS Link |
