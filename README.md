@@ -39,11 +39,11 @@ Copy and paste the links into your rss feed reader of choice.
 ## Cancer
 | Journal | RSS Link |
 | ------------- | ------------- |
-| Nature Cancer |
+| Nature Cancer | http://feeds.nature.com/natcancer/rss/current |
+| Oncogene | http://feeds.nature.com/onc/rss/current |
 | Cancer Discovery |
 | Cancer Reserach |
 | Clinical Cancer Research |
-| Oncogene |
 
 ## Disease
 | Journal | RSS Link |
